@@ -1,0 +1,46 @@
+body
+{
+    background-color:burlywood;
+}
+
+div.a
+{
+    width : 1350px;
+    height : 100px ;
+    background-color:maroon;
+}
+
+p.a
+{
+    padding: 0px;
+    margin:0px;
+    text-decoration-skip: objects;
+    font-family: cursive;
+    font-size: 40px;
+    color:aliceblue;
+}
+div.b 
+{
+    padding:15px;
+    
+}
+
+p.b
+{
+    font-family: serif;
+    font-size: 30px;
+    color: maroon;
+    padding: 10px;
+}
+
+a 
+{
+    font-size: 30px;
+    padding: 10px;
+    color:maroon;
+}
+img 
+{
+    width:100px;
+    float: right;
+}
